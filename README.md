@@ -1,2 +1,3 @@
-# replica-frontend-xypowebsite
-Réplica feita em estudos de HTML/CSS.
+# Sobre o Arquivo.
+
+Réplica feita enquanto eu estudava sobre HTML/CSS, retirado do canal do youtube chamado [Easy Tutorials](https://www.youtube.com/c/EasyTutorialsVideo/). 
